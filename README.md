@@ -1,0 +1,1 @@
+This project is intended to create a Domain Adapted Language Model (DALM) for use in official channels. The purpose is to train the LLM in offical Acts of the GoI and also the embedding model to get better results from the RAG pipeline.
